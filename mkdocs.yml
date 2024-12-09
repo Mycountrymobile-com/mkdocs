@@ -1,0 +1,7 @@
+site_name: My Country Mobile
+site_url: https://mycountrymobile.github.io/mkdocs/
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
+  - About: about.md
